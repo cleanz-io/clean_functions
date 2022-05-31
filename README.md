@@ -1,2 +1,2 @@
-# clean_functions
-clean functions used in CleanZ
+# Data clean rules set
+Data clean rules used on CleanZ
